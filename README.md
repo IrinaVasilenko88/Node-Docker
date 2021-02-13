@@ -6,7 +6,7 @@
 
 ## Тема: Docker и Docker Compose
 
-Докеризация приложения ```db-api-for-docker.jar``` с использованием node
+Докеризация приложения ```db-api-for-docker.jar``` с использованием node.js
 ![](https://github.com/netology-code/aqa-homeworks/blob/aqa4/docker/pic/node.png)
 
 **Для запуска проекта:**
